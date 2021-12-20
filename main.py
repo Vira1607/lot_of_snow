@@ -59,6 +59,6 @@ for i in range(0, 10):
 # right(36)
 # snowflake()
 
-import time
+# import time
 
-time.sleep(10)
+# time.sleep(10)
