@@ -54,7 +54,7 @@ for i in range(0, 10):
 
 # def snowflake():
 # for x in range (0,10):
-##color(random.choice(colours))
+# color(random.choice(colours))
 # snowflakeArm()
 # right(36)
 # snowflake()
